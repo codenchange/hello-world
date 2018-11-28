@@ -1,2 +1,6 @@
 # hello-world
-School Pojects
+School Projects
+
+Hi Humans,
+
+I love travelling and exploring places, people and culture.
